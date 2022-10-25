@@ -1,0 +1,3 @@
+Banco de Dados Exercicio DAPPER
+porta 1423
+"MSSQL_SA_PASSWORD=Senha@123
